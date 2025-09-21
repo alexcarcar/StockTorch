@@ -8,7 +8,7 @@ This repository is a space to experiment with stock analysis using Python. It co
 
 | Experiment | Description |
 |------------|-------------|
- | [Introductory Scripts](experiments/00_introductory_scripts/readme.md) | Overview and usage of basic stock analysis scripts. |
+ | [Introductory Scripts](experiments/00_introductory_scripts) | Overview and usage of basic stock analysis scripts. |
 | [LSTM Stock Prediction](experiments/01_pytorch_analysis) | Uses a PyTorch LSTM model to predict future stock closing prices based on historical data. |
 | [Moving Average Analysis](experiments/02_mesz_analysis) | Analyzes stock price trends using moving averages to identify potential buy/sell signals. |
 
