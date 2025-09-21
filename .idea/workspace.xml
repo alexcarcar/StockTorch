@@ -59,6 +59,13 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/experiments/02_mesz_analysis" />
+      <recent name="$PROJECT_DIR$/experiments" />
+      <recent name="$PROJECT_DIR$/experiments/01_pytorch_analysis" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.mesz">
     <configuration name="mesz" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="StockTorch" />
