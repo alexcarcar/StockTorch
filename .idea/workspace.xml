@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cbcad57-5dcb-4d72-a890-0408f4cde02e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mesz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/StockTorch.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/StockTorch.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/historical_stock_data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/01_pytorch_analysis/historical_stock_data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mesz.py" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/02_mesz_analysis/mesz.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stock_pattern_recognition.py" beforeDir="false" afterPath="$PROJECT_DIR$/experiments/01_pytorch_analysis/stock_pattern_recognition.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,12 +32,12 @@
     &quot;assignee&quot;: &quot;alexcarcar&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/alexcarcar/StockTorch.git",
-    "accountId": "76cf0171-15f5-4693-8c4d-b35081a0d589"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/alexcarcar/StockTorch.git&quot;,
+    &quot;accountId&quot;: &quot;76cf0171-15f5-4693-8c4d-b35081a0d589&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -52,7 +55,8 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="RunManager" selected="Python.mesz">
@@ -69,7 +73,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mesz.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experiments/02_mesz_analysis/mesz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +95,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stock_pattern_recognition.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/experiments/01_pytorch_analysis/stock_pattern_recognition.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +113,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+        <option value="bundled-python-sdk-8753aad8314d-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.25557.178" />
       </set>
     </attachedChunks>
   </component>
