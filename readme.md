@@ -13,3 +13,7 @@ This repository is a space to experiment with stock analysis using Python. It co
 | [Moving Average Analysis](experiments/02_mesz_analysis) | Analyzes stock price trends using moving averages to identify potential buy/sell signals. |
 
 Explore the experiments in the `experiments` directory for more details.
+
+## MESZ2025 - Dec 2025 Contracts
+
+https://www.tradingview.com/symbols/CME_MINI-MES1!/?contract=MESZ2025&timeframe=5D
