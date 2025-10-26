@@ -66,3 +66,7 @@ You can modify this logic to test other strategies like moving averages, momentu
 ## 📚 License
 
 This project is open-source and free to use for educational purposes.
+
+
+## future ideas
+- as stock deops 
