@@ -6,12 +6,13 @@ This repository is a space to experiment with stock analysis using Python. It co
 
 ### Table of Contents
 
-| Experiment                                                  | Description |
-|-------------------------------------------------------------|-------------|
- | [Introductory Scripts](experiments/00_introductory_scripts) | Overview and usage of basic stock analysis scripts. |
+| Experiment                                                  | Description                                                                                |
+|-------------------------------------------------------------|--------------------------------------------------------------------------------------------|
+ | [Introductory Scripts](experiments/00_introductory_scripts) | Overview and usage of basic stock analysis scripts.                                        |
 | [LSTM Stock Prediction](experiments/01_pytorch_analysis)    | Uses a PyTorch LSTM model to predict future stock closing prices based on historical data. |
-| [Moving Average Analysis](experiments/02_mesz_analysis)     | Analyzes stock price trends using moving averages to identify potential buy/sell signals. |
-| [Trading Simulation](experiments/03_simulate_trading)       | Python simulator teaching stock trading basics with strategy and visualization. |
+| [Moving Average Analysis](experiments/02_mesz_analysis)     | Analyzes stock price trends using moving averages to identify potential buy/sell signals.  |
+| [Trading Simulation](experiments/03_simulate_trading)       | Python simulator teaching stock trading basics with strategy and visualization.            |
+| [Fractal Experiments](experiments/04_fractal)               | Determine fractal dimension of apple stock chart.                                          |
 
 Explore the experiments in the `experiments` directory for more details.
 
