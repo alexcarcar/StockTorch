@@ -13,7 +13,7 @@ warnings.filterwarnings("ignore")
 # USER SETTINGS
 # -----------------------------
 ticker = "GWRE"  # Change to your preferred ticker
-start_date = "2025-06-01"
+start_date = "2023-06-01"
 end_date = "2025-11-09"
 
 # -----------------------------
