@@ -13,6 +13,7 @@ This repository is a space to experiment with stock analysis using Python. It co
 | [Moving Average Analysis](experiments/02_mesz_analysis)     | Analyzes stock price trends using moving averages to identify potential buy/sell signals.  |
 | [Trading Simulation](experiments/03_simulate_trading)       | Python simulator teaching stock trading basics with strategy and visualization.            |
 | [Fractal Experiments](experiments/04_fractal)               | Determine fractal dimension of apple stock chart.                                          |
+| [Price Action](experiments/05_price_action)                 | Use features of previous day to predict close of next day.                                 |
 
 Explore the experiments in the `experiments` directory for more details.
 
