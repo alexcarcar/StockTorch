@@ -6,7 +6,7 @@ from sklearn.metrics import accuracy_score
 
 # 1. Download historical stock data (example: Apple)
 ticker = "AAPL"
-data = yf.download(ticker, start="2020-01-01", end="2023-01-01")
+data = yf.download(ticker, start="2020-01-01", end="2025-01-01")
 
 # 2. Create simple features
 data["Return"] = data["Close"].pct_change()
@@ -24,7 +24,7 @@ X = data[["Return", "MA5", "MA10"]]
 y = data["Target"]
 
 # 5. Train/test split
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, shuffle=False)
+X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.4, shuffle=False)
 
 # 6. Train a simple model
 model = RandomForestClassifier(n_estimators=100, random_state=42)
