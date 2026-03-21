@@ -19,3 +19,19 @@
 | More flexible and interpretive    | More rule‑based and mechanical           |
 | Helps read market psychology      | Helps quantify trends and momentum       |
 
+### Candlestick Patterns
+
+1. Bullish Engulfing
+
+- First candle: small bearish (red)
+- Second candle: large bullish (green) that fully engulfs the previous body
+
+2. Doji
+
+- Open and close are nearly identical
+- Shows market indecision
+
+3. Momentum Candle
+
+- Large candle body
+- Strong directional move (in this example, bullish)
